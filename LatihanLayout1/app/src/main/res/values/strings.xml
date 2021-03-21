@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">LatihanLayout1</string>
+    <string name="app_name">My Application1</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">messge</string>
+    <string name="send">send</string>
+
+    <string name="reminder">Reminder</string>
+    <string name="done">done</string>
+
+    <string-array name="dates">
+        <item>wed,June 27 2012</item>
+    </string-array>
+    <string-array name="times">
+        <item>8:AM</item>
+    </string-array>
+    <string name="title_activity_main_constraint_layout">MainActivityConstraintLayout</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
 </resources>

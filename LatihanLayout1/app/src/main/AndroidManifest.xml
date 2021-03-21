@@ -9,6 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LatihanLayout1">
+        <activity android:name=".TugasLayout"></activity>
+        <activity android:name=".ScrllHrizntll" />
+        <activity android:name=".ScrllView" />
+        <activity android:name=".MainActivityTableLayout" />
+        <activity android:name=".MainActivityFrameLayout" />
+        <activity android:name=".MainActivityConstraintLayout" />
+        <activity android:name=".MainActivityRelativeLayout" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
