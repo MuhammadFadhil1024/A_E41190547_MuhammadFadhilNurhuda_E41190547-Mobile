@@ -9,7 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LatihanLayout1">
-        <activity android:name=".TugasLayout"></activity>
+        <activity android:name=".ListViewActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".materialdesain"></activity>
+        <activity android:name=".Registration" />
+        <activity android:name=".TugasLayout" />
         <activity android:name=".ScrllHrizntll" />
         <activity android:name=".ScrllView" />
         <activity android:name=".MainActivityTableLayout" />
@@ -17,11 +26,7 @@
         <activity android:name=".MainActivityConstraintLayout" />
         <activity android:name=".MainActivityRelativeLayout" />
         <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 

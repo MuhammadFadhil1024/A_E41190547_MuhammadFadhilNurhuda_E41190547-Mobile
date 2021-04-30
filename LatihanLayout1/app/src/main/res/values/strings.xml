@@ -24,4 +24,12 @@
     <string name="login">login</string>
     <string name="email">email</string>
     <string name="password">password</string>
+
+    <string name="nama">Tuliskan nama anda</string>
+    List view Activity
+
+    <string-array name="countries_arry">
+        <item>Afganistan</item>
+        <item>Albania</item>
+    </string-array>
 </resources>
